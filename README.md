@@ -1,5 +1,8 @@
 # Erase and Check LLM Safety 
 
+![Screenshot_2025-01-25_at_4 31 59_PM-removebg-preview](https://github.com/user-attachments/assets/17fac6b0-2070-423a-bc40-cb094d0674ed)
+
+
 ## Overview
 
 The `EraseAndCheck` module provides an advanced method for certifying the safety of text inputs in systems utilizing large language models (LLMs). It is designed to detect and mitigate adversarial prompts that could otherwise manipulate model behavior in unintended ways.
